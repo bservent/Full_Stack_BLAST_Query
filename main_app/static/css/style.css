@@ -1,7 +1,7 @@
-/* body {
+body {
     background-color: aquamarine;
     
-} */
+}
 
 body {
     font-family: 'Nunito Sans', sans-serif;
@@ -12,7 +12,6 @@ body {
     min-height: 100wh;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image:linear-gradient(to bottom right, aquamarine, orange); 
-}
+    background-color: black
 
 
